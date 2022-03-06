@@ -10,6 +10,8 @@ Here are snippets of python code from me coding/solving various problems/challen
 6. Leetcode problem 3. Longest Substring Without Repeating Characters - sliding window
 7. Leetcode problem 206. Reverse Linked List - Linked List problem
 8. Leetcode problem 226. Invert Binary Tree - Binary Tree problem
+
 Freecodecamp problem Arithmetic Polygon area calculator - basic/generic OOP
+
 Fibonacci nums no.1 - decorator as a counter, f-fromated strings, *args **kwargs
 Fibonacci nums no.1 - wrapper as a cache, f-fromated strings, *args **kwargs
