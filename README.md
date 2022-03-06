@@ -1,5 +1,4 @@
 # MyCodeSnippets
-Here are snippets of python code from me coding/solving various problems/challenges/exercises. Might add more later. :)
 In the assignment folder are pictures with individual assignments to the problems.
 
 1. Leetcode problem 153. Find Minimum in Rotated Sorted Array - usage of binary search
