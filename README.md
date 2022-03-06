@@ -14,4 +14,5 @@ Here are snippets of python code from me coding/solving various problems/challen
 Freecodecamp problem Arithmetic Polygon area calculator - basic/generic OOP
 
 Fibonacci nums no.1 - decorator as a counter, f-fromated strings, *args **kwargs
+
 Fibonacci nums no.1 - wrapper as a cache, f-fromated strings, *args **kwargs
