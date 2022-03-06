@@ -1,5 +1,5 @@
 # MyCodeSnippets
-In the assignment folder are pictures with individual assignments to the problems.
+In the assignment folder are pictures of individual assignments to the specific problems.
 
 1. Leetcode problem 153. Find Minimum in Rotated Sorted Array - usage of binary search
 2. Leetcode problem 100. Same Tree - DFS
